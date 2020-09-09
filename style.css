@@ -1,0 +1,24 @@
+* {
+	font-family : 'Anton', sans-serif;
+	/*color: #ffffff;*/
+}
+
+body {
+	margin     : 0;
+	text-align : center;
+	background-color : #000000;
+}
+
+.main-box {
+	padding : 25vh;
+}
+
+.content {
+	font-size : 40px;
+}
+
+.content span {
+	font-style  : oblique;
+	font-weight : 600;
+	color       : #FFFFFF;
+}
